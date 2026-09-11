@@ -1,7 +1,7 @@
 ---
 title: "Monstera Deliciosa Care Guide"
 slug: "monstera-deliciosa"
-image: "/01. Monstera (Monstera deliciosa).webp"
+image: "/monstera.webp"
 ---
 
 ## Quick Care Overview
