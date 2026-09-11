@@ -1,7 +1,7 @@
 ---
 title: "Snake Plant Care Guide"
 slug: "snake-plant"
-image: "/images/02. Snake Plant (Sansevieria trifasciata Dracaena trifasciata).webp"
+image: "/02. Snake Plant (Sansevieria trifasciata Dracaena trifasciata).webp"
 ---
 
 ## Quick Care Overview
