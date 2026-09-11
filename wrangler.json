@@ -1,4 +1,6 @@
 {
-  "name": "pop-plants",
-  "pages_build_output_dir": "dist"
+  "name": "pop-plants-web",
+  "assets": {
+    "directory": "./dist"
+  }
 }
